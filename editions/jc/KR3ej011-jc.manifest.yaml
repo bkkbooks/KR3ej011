@@ -26,14 +26,13 @@ assets:
   - {seq: 6, filename: KR3ej011_006-jc.yaml, hash: 'sha256:88e663808f07deb4cff7a9dc2a63ae35cc6cc8ad44d87d83907521557b51e65a'}
   - {seq: 0, filename: KR3ej011_000-jc.yaml, hash: 'sha256:e947cc4cba5df45782d60ab6cb012f847890abcae116daaaab91bcd640005e5c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej011_000-jc.markers.yaml, hash: 'sha256:96d57de6c08289222a05cda3c31c34740eb4ee3b7f2087ba3ae01a90ecedfa2a'}
-  - {seq: 1, role: markers, filename: assets/KR3ej011_001-jc.markers.yaml, hash: 'sha256:8a073f104f0a876974b7c844ca6dad77c7b0b1a1005c58a785669cbc87e76dbb'}
+  - {seq: 0, role: markers, filename: assets/KR3ej011_000-jc.markers.yaml, hash: 'sha256:ec6ba714f6c0ebb7f9d83599d066540b2a9a1bbe7f5d940ecdfb06db72deefad'}
+  - {seq: 1, role: markers, filename: assets/KR3ej011_001-jc.markers.yaml, hash: 'sha256:527a9546f3c933f820b084ebaefa838eab99aabfdbfdc4ec2f02ea3efab33dab'}
   - {seq: 2, role: markers, filename: assets/KR3ej011_002-jc.markers.yaml, hash: 'sha256:321b5af9370a247002df8c94a376a849894b19a8db80d749056767b9987308fc'}
   - {seq: 3, role: markers, filename: assets/KR3ej011_003-jc.markers.yaml, hash: 'sha256:e830c0ca42750f739bced5be7901c946f79a5de964cfb075af54476f354f239c'}
   - {seq: 4, role: markers, filename: assets/KR3ej011_004-jc.markers.yaml, hash: 'sha256:a250a1792c8e57fb68ba8185e9134c4dd0742c097738f5da8020c78edbb1a778'}
-  - {seq: 5, role: markers, filename: assets/KR3ej011_005-jc.markers.yaml, hash: 'sha256:a434daa1cf507c5a36bd2f672c7a2992ffcc7f26d2de6e5888128e7223fcbd8f'}
+  - {seq: 5, role: markers, filename: assets/KR3ej011_005-jc.markers.yaml, hash: 'sha256:3caaafdfe9f5577d0fe1932ab25613296ec2b4217e036c9f6e2aab83d85e67d1'}
   - {seq: 6, role: markers, filename: assets/KR3ej011_006-jc.markers.yaml, hash: 'sha256:9496c80a4c606796713c9664c876c03b499ebbea6928bb5d752c73e1fb34e1e5'}
-  - {seq: 0, role: markers, filename: assets/KR3ej011_000-jc.markers.yaml, hash: 'sha256:96d57de6c08289222a05cda3c31c34740eb4ee3b7f2087ba3ae01a90ecedfa2a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1065,4 +1064,4 @@ table_of_contents:
   label: 諸湯方
   type: section
   level: 2
-hash: sha256:b04d488791fa849de47c1261ef4461737048e14a0e4585f87248806efe3414ce
+hash: sha256:923615a5ad0ed67f8c18884f6c0fea6f73e9ee78778e31e706e4656284687acd
